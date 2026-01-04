@@ -1,0 +1,9 @@
+{
+  "name": "json_rpc_2",
+  "version": "1.0.0",
+  "description": "JSON-RPC 2.0 client and server",
+  "main": "src/index.ts",
+  "author": "",
+  "license": "MIT",
+  "dependencies": {}
+}
