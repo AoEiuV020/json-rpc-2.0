@@ -1,11 +1,12 @@
 {
   "compilerOptions": {
-    "strict": true,
+    "strict": false,
     "outDir": "dist",
     "declaration": true,
-    "module": "commonjs",
-    "target": "es5",
-    "lib": ["es5", "es6"]
+    "target": "esnext",
+    "module": "esnext",
+    "lib": ["esnext", "dom"],
+    "types": ["@dcloudio/types"]
   },
   "include": ["./src/**/*.ts"]
 }

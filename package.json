@@ -27,6 +27,7 @@
   },
   "homepage": "https://github.com/shogowada/json-rpc-2.0#readme",
   "devDependencies": {
+    "@dcloudio/types": "^3.4.14",
     "@types/chai": "^4.3.0",
     "@types/mocha": "^9.1.0",
     "@types/node": "^14.18.12",
